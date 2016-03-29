@@ -1,0 +1,33 @@
+{
+	"name": "WikiToLearn",
+	"version": "1.0",
+	"author": "...",
+	"url": "",
+	"descriptionmsg": "wikitolearn-desc",
+	"namemsg": "skinname-wikitolearn",
+	"license-name": "GPL-2.0+",
+	"type": "skin",
+	"ValidSkinNames": {
+		"wikitolearn": "WikiToLearn"
+	},
+	"MessagesDirs": {
+		"WikiToLearn": "i18n"
+	},
+	"ResourceModules": {
+		"skins.wikitolearn": {
+			"styles": {
+				"assets/screen.css": {
+					"media": "screen"
+				}
+			}
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteSkinPath": "WikiToLearn"
+	},
+	"AutoloadClasses": {
+		"SkinWikiToLearn": "WikiToLearn.skin.php",
+		"WikiToLearnTemplate": "WikiToLearnTemplate.php"
+	}
+}
