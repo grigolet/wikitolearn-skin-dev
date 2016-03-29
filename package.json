@@ -10,8 +10,7 @@
   "license": "ISC",
   "dependencies" : 
   {
-  	"browser-sync" : "2.11.2",
   	"gulp" : "3.9.1",
-	"gulp-compass" : "2.1.0"
+	  "gulp-compass" : "2.1.0",
   }
 }
