@@ -1,2 +1,2 @@
 # wikitolearn-skin-dev
-Environment tests for wikitolearn's skin
+Environment tests for wikitolearn's skin.
